@@ -1,0 +1,16 @@
+{
+  "manifest_version": 2,
+  "name": "DOI Column",
+  "version": "0.1.1",
+  "description": "Adds a DOI column to the Zotero items list, so DOIs can be scanned and compared without opening each item.",
+  "author": "anfang",
+  "homepage_url": "https://github.com/anfang886/zotero-doi-column",
+  "applications": {
+    "zotero": {
+      "id": "doi-column@anfang886.github.io",
+      "update_url": "https://anfang886.github.io/zotero-doi-column/update.json",
+      "strict_min_version": "6.999",
+      "strict_max_version": "99.*"
+    }
+  }
+}
