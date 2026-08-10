@@ -1,4 +1,5 @@
 # DOI Column for Zotero
+![DOI Column for Zotero Cover](head_images.png)
 
 [English](#english) | [繁體中文](#繁體中文) | [日本語](#日本語)
 
